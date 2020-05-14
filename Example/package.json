@@ -39,7 +39,7 @@
   },
   "description": "Validates whether a string matches the production for an XML name or qualified name",
   "devDependencies": {
-    "eslint": "^2.9.0",
+    "eslint": "^7.0.0",
     "mocha": "^2.4.5",
     "waka": "0.1.2"
   },
